@@ -36,15 +36,16 @@ main{
     margin-right: 15px;
     width: 95%;
     height: 90%;
+    display: block;
 }
 .tribute-img{
     display: flex;
     flex-direction: column;
     align-items: center;
 }
-#img{
-    max-width: 90%;
-    max-height: 90%;
+#image{
+    max-width:100%;
+
 }
 #img-caption{
     font-size: 15px;
